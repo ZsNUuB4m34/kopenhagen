@@ -79,5 +79,25 @@ Nächst günstigste Option bei etwa €1000.
 Selbst Optionen mit Schalfsälen ab €700.
 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1IQ-LfIrXaFurYMmDMT81Bwq7JfBF6n8&ehbc=2E312F" width="640" height="480"></iframe>
 
- <iframe src="https://www.google.com/maps/d/embed?mid=1IQ-LfIrXaFurYMmDMT81Bwq7JfBF6n8&ehbc=2E312F" width="640" height="480"></iframe>
+## Transport
+
+### City Pass Klein
+
+48h €21.44
+
+[City Pass Klein](https://www.publictransport.dk/de/tickets/city-passde)
+
+![City Pass Small](img/Kopenhagen_CityPassSmall.png)
+
+### Copenhagen Card
+
+
+[Copenhagen Card](https://copenhagencard.com/view/card-info)
+
+![Copenhagen Card](img/Kopenhagen_CopenhagenCard.png)
+
+[Hop (Copenhagen Center)](https://copenhagencard.com/view/hop-transport)
+
+
